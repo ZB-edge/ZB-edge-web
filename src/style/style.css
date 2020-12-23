@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+}
+.el-button {
+  background-color: #ff4d51;
+  border-color: #ff4d51;
+  color: white;
+}
+.el-button:hover{
+  background-color: #ff4d51;
+  border-color: #ff4d51;
+  color: white;
+}
+.el-button:focus{
+  background-color: #ff4d51;
+  border-color: #ff4d51;
+  color: white;
+}
+.el-input {
+  width: 200px;
+}
+.el-tooltip__popper {
+  max-width: 60% !important;
+  min-width: 200px !important;
+}
+
